@@ -74,9 +74,6 @@ Open `frontend/index.html` in your browser. Ensure the backend server is running
 ## 📸 Demo
 
 
-![AI Caption Generator Screenshot](frontend/screenshot.png)
-
-
 > Example:
 >
 > **Caption**: `a dark red background with a darker effect`
